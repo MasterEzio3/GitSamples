@@ -1,0 +1,1 @@
+ADded file 4 to show how to remove file from local repo
