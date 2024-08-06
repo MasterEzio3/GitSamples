@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Added for cr6
+=======
 ADded file 4 to show how to remove file from local repo
+>>>>>>> parent of 422e70d (Added for cr5)
