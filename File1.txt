@@ -1,3 +1,5 @@
 File1 created  for userstory1 to move staging area then commit to local repo.
 
 File modified for 2nd change
+
+modified for user story 3
